@@ -1,0 +1,19 @@
+{
+    "gejala": [{
+            "id": 1,
+            "nama": "Demam"
+        },
+        {
+            "id": 2,
+            "nama": "Batuk"
+        },
+        {
+            "id": 3,
+            "nama": "Sakit Kepala"
+        },
+        {
+            "id": 4,
+            "nama": "Mual"
+        }
+    ]
+}
