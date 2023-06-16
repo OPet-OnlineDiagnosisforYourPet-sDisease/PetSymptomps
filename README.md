@@ -3,12 +3,12 @@
 # Endpoint
 https://petsymptomps-iu6qufuohq-uc.a.run.app/gejala
 
-•	URL
+# •	URL
   /gejala
-•	Method
+# •	Method
   GET
-•	Response
-  {
+# •	Response
+  # {
     "success": true,
     "message": "Data gejala berhasil diperoleh.",
     "data": [
