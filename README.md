@@ -8,8 +8,7 @@ https://petsymptomps-iu6qufuohq-uc.a.run.app/gejala
 # •	Method
   GET
 # •	Response
-#
-   {
+#   {
     "success": true,
     "message": "Data gejala berhasil diperoleh.",
     "data": [
@@ -358,4 +357,4 @@ https://petsymptomps-iu6qufuohq-uc.a.run.app/gejala
             "nama": "Luka"
         }
     ]
-}
+# }
